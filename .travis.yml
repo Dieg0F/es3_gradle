@@ -7,7 +7,7 @@ os:
   - linux
 
 before_script:
-  - cd hellworld
+  - cd helloworld
 
 script:
   - ./gradlew clean build
